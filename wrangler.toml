@@ -1,0 +1,11 @@
+name = "brilliantearth-embed-jwt"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+EMBED_URL = "https://app.sigmacomputing.com/papercrane/workbook/Dylan-s-Workbooks-Demo-v3-73B7cYAPgwAgONAbgyKqYI"
+EMBED_EMAIL = "dylan+seven@sigmacomputing.com"
+EMBED_ACCOUNT_TYPE = "Pro"
+EMBED_TEAMS = "all_clients_team"
+SESSION_LENGTH = "3600"
+ALLOWED_ORIGIN = "*"
